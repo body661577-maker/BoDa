@@ -1,3 +1,1 @@
-# Configuration Settings
-
-discord_webhook_url = "YOUR_DISCORD_WEBHOOK_URL"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1476746770628477021/QWgTgR-F3sUsocD8s7hywhKL84OtNnm9LiGF5Xgqfe2QVwMcgqm2PO9qO1Na3S_9MI04"
